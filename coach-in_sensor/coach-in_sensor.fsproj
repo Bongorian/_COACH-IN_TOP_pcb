@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--**************************************-->
+<!--   File    : coach-in_sensor.fsproj   -->
+<!--   Format  : TopoR Project file       -->
+<!--   Version : 2                        -->
+<!--   Program : TopoR Lite 6.3.18019     -->
+<!--   Date    : Wednesday, June 27, 2018 -->
+<!--   Time    : 01:28                    -->
+<!--**************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{C617C481-9DF2-4C22-9158-5BBC91B10FE5}</GUID>
+   <Documents>
+      <Section name="PCB">
+         <File path=".\coach_in_sensor.fsx" isopened="1" dateChange="2018-06-27 00:44:35"/>
+      </Section>
+      <Section name="AutoRouting">
+         <File path=".\autoroute_180627011130\coach_in_sensor_399-2s.fsb" isopened="0" dateChange="2018-06-27 01:12:39"/>
+         <File path=".\autoroute_180627004737\coach_in_sensor_413-2s.fsb" isopened="0" dateChange="2018-06-27 00:49:27"/>
+      </Section>
+   </Documents>
+   <Import>
+      <Specctra>
+         <Path name="C:\Users\bongorian\Desktop\coach_in_sensor\coach_in_sensor.dsn"/>
+      </Specctra>
+   </Import>
+</Project>
